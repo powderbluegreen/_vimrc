@@ -53,7 +53,7 @@ if has ('gui_running')
 	set guifont=Consolas:h18
 endif
 
-
+set spell
 
 
 "
