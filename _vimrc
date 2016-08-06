@@ -11,7 +11,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'rking/ag'
 Plugin 'altercation/vim-colors-solarized'
-
+Plugin 'vim-scripts/LanguageTool'
 syntax enable
 set background=dark
 colorscheme solarized
